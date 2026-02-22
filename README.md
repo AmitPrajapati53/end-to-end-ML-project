@@ -1,5 +1,17 @@
 # end-to-end-ML-project
 
-git config --global user.email "amitprajapati.sspu@gmail.com"
-git config --global user.email ""
-git config --global user.name "AmitPrajapati53"
+```bash
+conda create -n mlproj python=3.8 -y
+```
+
+```bash
+conda activate mlproj
+```
+
+``` bash
+python -m venv mlproj
+
+mlproj\Scripts\activate
+
+
+```
