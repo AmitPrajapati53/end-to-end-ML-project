@@ -13,5 +13,6 @@ python -m venv mlproj
 
 mlproj\Scripts\activate
 
+pip install -r requirements.txt
 
 ```
